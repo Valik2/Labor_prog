@@ -1,0 +1,5 @@
+﻿  Labor_1_sem_3.cpp
+  Matrix.cpp
+  Создание кода...
+C:\Users\valik\source\repos\Labor_1_sem_3\Matrix.cpp(72): warning C4172: возвращение адреса локальной или временной переменной : str
+  Labor_1_sem_3.vcxproj -> C:\Users\valik\source\repos\Labor_1_sem_3\Debug\Labor_1_sem_3.exe
