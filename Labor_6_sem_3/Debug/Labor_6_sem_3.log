@@ -1,0 +1,6 @@
+﻿  Matrix.cpp
+C:\Users\valik\source\repos\Labor_6_sem_3\Matrix.cpp(24,40): warning C4018: <: несоответствие типов со знаком и без знака
+  Tests.cpp
+  Создание кода...
+C:\Users\valik\source\repos\Labor_6_sem_3\Matrix.cpp(87): warning C4172: возвращение адреса локальной или временной переменной : str
+  Labor_6_sem_3.vcxproj -> C:\Users\valik\source\repos\Labor_6_sem_3\Debug\Labor_6_sem_3.exe
